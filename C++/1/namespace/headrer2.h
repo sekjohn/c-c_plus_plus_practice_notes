@@ -1,4 +1,4 @@
 namespace header2 {
-	int foo();
-	void bar();
+    int foo();
+    void bar();
 }
